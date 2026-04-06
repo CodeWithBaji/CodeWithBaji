@@ -32,15 +32,12 @@
 <a href="https://www.instagram.com/imbaji17/">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
-&nbsp;&nbsp;&nbsp;
 <a href="https://www.twitter.com/imbaji17/">
 <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white">
 </a>
-&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/bajirao-shinde/">
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-&nbsp;&nbsp;&nbsp;
 <a href="https://www.youtube.com/@CodingWithBaji">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 </a>
