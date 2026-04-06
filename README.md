@@ -1,5 +1,9 @@
-<img src="https://raw.githubusercontent.com/CodingWithBaji/CodingWithBaji/main/intro.gif" alt="👋 Hi there! I'm Baji" title="👋 Hi there! I'm Baji"/>
-<div align="justify">
+<p align="center">
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=36\&duration=3500\&color=FFD700\&center=true\&vCenter=true\&width=900\&lines=Hi+there!+I'm+Bajirao+Shinde+\(Baji\);Lead+Android+Engineer;)
+
+</p>
+
 
 <a href="https://www.instagram.com/imbaji17/">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
