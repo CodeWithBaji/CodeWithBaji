@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/CodingWithBaji/CodingWithBaji/main/intro.gif" alt="👋 Hi there! I'm Baji" title="👋 Hi there! I'm Baji"/>
 <div align="justify">
 
-<a href="https://www.instagram.com/CodingWithBaji/">
+<a href="https://www.instagram.com/imbaji17/">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -9,11 +9,11 @@
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.twitter.com/CodingWithBaji/">
+<a href="https://www.twitter.com/imbaji17/">
 <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/rezshakeri/">
+<a href="https://www.linkedin.com/in/bajirao.shinde/">
 <img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
