@@ -10,23 +10,6 @@
 <img src="https://img.shields.io/github/stars/CodingWithBaji?affiliations=OWNER&style=for-the-badge" />
 </p>
 
-<p align="center">
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white"/>
-<img src="https://img.shields.io/badge/AOSP-000000?style=for-the-badge&logo=android&logoColor=white"/>
-<img src="https://img.shields.io/badge/MVVM-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MVI-009688?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Clean%20Architecture-6A1B9A?style=for-the-badge"/>
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Hilt-4285F4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Coroutines-009688?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-</p>
-
 <div align="center">
 
 <a href="https://www.instagram.com/imbaji17/">
@@ -51,21 +34,21 @@
 Welcome to my GitHub Page. I am Bajirao Shinde and now Computer engineering student, I learn new things about programming and teach these things to others, I have been programming for almost more than 10 years and worked with many languages and technologies. Also, inside Instagram, I have a media called <a href="https://www.instagram.com/imbaji17">Bajirao Shinde</a> that shares everything I learn about programming.
 </p>
 
-## 🛠️ Technical Skills
+## 🛠️ Technical Stack
 
 > Technologies and tools I use to build scalable, production-grade Android applications
 
 
 ### 💻 Languages & Tools
 
-<p align="center">
+<p align="start">
 <img src="https://skillicons.dev/icons?i=kotlin,java" />
 <img src="https://skillicons.dev/icons?i=androidstudio,git,github,gitlab,bitbucket,figma,linux" />
 </p>
 
 ### 🧩 Architectures
 
-<p align="center">
+<p align="start">
 <img src="https://img.shields.io/badge/MVI-009688?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/MVVM-FF6F00?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Clean%20Architecture-6A1B9A?style=for-the-badge"/>
@@ -75,7 +58,7 @@ Welcome to my GitHub Page. I am Bajirao Shinde and now Computer engineering stud
 
 ### ⚙️ Android & Frameworks
 
-<p align="center">
+<p align="start">
 <img src="https://img.shields.io/badge/Android%20SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jetpack-000000?style=for-the-badge&logo=android&logoColor=white"/>
@@ -89,7 +72,7 @@ Welcome to my GitHub Page. I am Bajirao Shinde and now Computer engineering stud
 
 ### 🧱 Jetpack Components
 
-<p align="center">
+<p align="start">
 <img src="https://img.shields.io/badge/LiveData-FF6F00?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/ViewModel-3F51B5?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Navigation-009688?style=for-the-badge"/>
@@ -101,7 +84,7 @@ Welcome to my GitHub Page. I am Bajirao Shinde and now Computer engineering stud
 
 ### 🎨 UI / UX
 
-<p align="center">
+<p align="start">
 <img src="https://img.shields.io/badge/Material%20Design-757575?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/XML-FF5722?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge"/>
@@ -111,7 +94,7 @@ Welcome to my GitHub Page. I am Bajirao Shinde and now Computer engineering stud
 
 ### 🧪 Testing
 
-<p align="center">
+<p align="start">
 <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Mockito-FF9800?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/MockK-000000?style=for-the-badge"/>
@@ -121,7 +104,7 @@ Welcome to my GitHub Page. I am Bajirao Shinde and now Computer engineering stud
 
 ### 🛠️ Tools & Platforms
 
-<p align="center">
+<p align="start">
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
 <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge"/>
@@ -130,7 +113,7 @@ Welcome to my GitHub Page. I am Bajirao Shinde and now Computer engineering stud
 
 ### 🌐 Networking & Backend
 
-<p align="center">
+<p align="start">
 <img src="https://img.shields.io/badge/REST%20API-FF5722?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/MQTT-009688?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
@@ -138,7 +121,7 @@ Welcome to my GitHub Page. I am Bajirao Shinde and now Computer engineering stud
 
 ### ⚡ Other Expertise
 
-<p align="center">
+<p align="start">
 <img src="https://img.shields.io/badge/Bluetooth-3F51B5?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Location%20Services-009688?style=for-the-badge"/>
@@ -148,7 +131,7 @@ Welcome to my GitHub Page. I am Bajirao Shinde and now Computer engineering stud
 
 ### 🔄 Dev Practices & CI/CD
 
-<p align="center">
+<p align="start">
 <img src="https://img.shields.io/badge/Agile-009688?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Scrum-FF6F00?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Kanban-607D8B?style=for-the-badge"/>
@@ -160,7 +143,7 @@ Welcome to my GitHub Page. I am Bajirao Shinde and now Computer engineering stud
 
 ### 🚀 Code Quality & Optimization
 
-<p align="center">
+<p align="start">
 <img src="https://img.shields.io/badge/ProGuard-FF5722?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/R8-000000?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Detekt-6A1B9A?style=for-the-badge"/>
