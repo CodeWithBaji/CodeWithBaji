@@ -4,6 +4,28 @@
 
 </p>
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=CodingWithBaji&label=Profile%20Views&color=yellow&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/CodingWithBaji?label=Followers&style=for-the-badge" />
+<img src="https://img.shields.io/github/stars/CodingWithBaji?affiliations=OWNER&style=for-the-badge" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/AOSP-000000?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/MVVM-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MVI-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Clean%20Architecture-6A1B9A?style=for-the-badge"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Hilt-4285F4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Coroutines-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</p>
 
 <div align="center">
 
