@@ -28,14 +28,13 @@
 
 </br>
 <p align="justify">
-I'm <b>Bajirao Shinde</b>, a Lead Android Engineer focused on building <b>system-level Android experiences</b> and scalable mobile architectures.
+I'm <b>Bajirao Shinde</b>, a <b>Lead Android Engineer</b> with 10+ years of experience building scalable, high-performance mobile applications.
 
-With 10+ years of experience, I specialize in <b>Kotlin, Jetpack Compose, MVI, and AOSP internals</b>, and enjoy pushing Android beyond traditional app development.
+I specialize in <b>Kotlin, Jetpack Compose, and modern Android architectures</b>, with deep expertise in <b>MVI, MVVM, and Clean Architecture</b>. I have extensive experience delivering solutions across domains including <b>Banking, Insurance, Automotive, and Healthcare</b>, focusing on performance, reliability, and seamless user experiences.
 
-I also share practical insights and development learnings with the community through Instagram and YouTube.
+Beyond development, I actively share practical insights and real-world learnings with the developer community through platforms like LinkedIn, Medium, Instagram and YouTube.
 
 </p>
-
 
 ## 🛠️ Technical Stack
 
