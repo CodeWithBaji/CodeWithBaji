@@ -1,8 +1,9 @@
 <p align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=36\&duration=3500\&color=FFD700\&center=true\&vCenter=true\&width=900\&lines=Hi+there!+I'm+Bajirao+Shinde+\(Baji\);Lead+Android+Engineer;)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=36\&duration=3500\&color=FFD700\&center=true\&vCenter=true\&width=900\&lines=Hi+there!+I'm+Bajirao+Shinde+\(Baji\);%E2%9C%A6+Lead+Android+Engineer+%E2%9C%A6)
 
 </p>
+
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=CodingWithBaji&label=Profile%20Views&color=yellow&style=for-the-badge" />
