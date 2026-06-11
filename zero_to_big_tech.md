@@ -1,5 +1,5 @@
 # 🚀 Zero to Big Tech — The Complete Roadmap
-### by Bajirao Shinde)
+### by Bajirao Shinde
 
 > This is the guide I wish someone had given me on Day 1.
 > No fluff. No course recommendations that cost money. No vague advice.
